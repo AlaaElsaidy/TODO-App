@@ -1,0 +1,19 @@
+{
+  "todo": " المهام",
+  "addNewTask": "اضافه مهمه جديده",
+  "pleaseEnterTaskTitle": "من فضلك ادخل عنوان مهمتك",
+  "pleaseEnterTaskDescribtion": "من فضلك ادخل وصف مهمتك",
+  "taskDescribtion": "وصف المهمه",
+  "taskTitle": "عنوان المهمه",
+  "selectDate": "اختر الوقت",
+  "english": "انجليزي",
+  "arabic": "عربي",
+  "language": "اللغه",
+  "mode": "الثمه",
+  "dark": "ليلي",
+  "light": "نهاري",
+  "addTask": "اضافه المهمه",
+  "editTask": "تعديل المهمه",
+  "toDoList": "قائمه المهام",
+  "saveChanges": "حفظ التغييرات"
+}
